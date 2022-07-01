@@ -1,7 +1,7 @@
 # js-functions
 task using IIFE, anonymous, arrow functions
 
-   1. Do the below programs in anonymous function & lIFE a. Print odd numbers in an array    b. Covert all the strings to title caps in a string array
+   1. Do the below programs in anonymous function & lIFE <br> a. Print odd numbers in an array    b. Covert all the strings to title caps in a string array
  c. Sum of all numbers in an array
   d. Return all the prime numbers in an array
  e. Return all the palindromes in an array
